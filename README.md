@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/AshishKhatri84/DSA/tree/master/0072-edit-distance) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshishKhatri84/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/AshishKhatri84/DSA/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshishKhatri84/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
