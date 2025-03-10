@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshishKhatri84/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AshishKhatri84/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshishKhatri84/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
 ## Math
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
