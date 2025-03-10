@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AshishKhatri84/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AshishKhatri84/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AshishKhatri84/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshishKhatri84/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AshishKhatri84/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshishKhatri84/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AshishKhatri84/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/AshishKhatri84/DSA/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AshishKhatri84/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
 | ------- |
