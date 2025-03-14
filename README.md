@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AshishKhatri84/DSA/tree/master/0135-candy) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AshishKhatri84/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Counting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/AshishKhatri84/DSA/tree/master/0135-candy) |
 | [0518-coin-change-ii](https://github.com/AshishKhatri84/DSA/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AshishKhatri84/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
