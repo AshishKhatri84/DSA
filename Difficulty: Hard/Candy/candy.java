@@ -27,31 +27,32 @@ class GFG {
 // User function Template for Java
 
 class Solution {
-    public int minCandy(int[] ratings) {
-        int n = ratings.length;
-        int[] candies = new int[n];
-        Arrays.fill(candies, 1); // Every child gets at least one candy
-
-        // Left to Right traversal
-        for (int i = 1; i < n; i++) {
-            if (ratings[i] > ratings[i - 1]) {
-                candies[i] = candies[i - 1] + 1;
+    public int minCandy(int[] arr) {
+        int n = arr.length;
+        int totalCandies = n;
+        int i = 1;
+        while (i < n) {
+            if (arr[i] == arr[i - 1]) {
+                i++;
+                continue;
             }
-        }
-
-        // Right to Left traversal
-        for (int i = n - 2; i >= 0; i--) {
-            if (ratings[i] > ratings[i + 1]) {
-                candies[i] = Math.max(candies[i], candies[i + 1] + 1);
+            int currentPeak = 0;
+            while (i < n && arr[i] > arr[i - 1]) {
+                currentPeak++;
+                totalCandies += currentPeak;
+                i++;
             }
+            if (i == n) {
+                return totalCandies;
+            }
+            int currentValley = 0;
+            while (i < n && arr[i] < arr[i - 1]) {
+                currentValley++;
+                totalCandies += currentValley;
+                i++;
+            }
+            totalCandies -= Math.min(currentPeak, currentValley);
         }
-
-        // Sum the candies
-        int totalCandies = 0;
-        for (int candy : candies) {
-            totalCandies += candy;
-        }
-        
-        return totalCandies;
+        return totalCandies;        
     }
 }
