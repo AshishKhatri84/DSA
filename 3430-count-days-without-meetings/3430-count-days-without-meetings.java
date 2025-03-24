@@ -1,15 +1,20 @@
 class Solution {
     public int countDays(int days, int[][] meetings) {
-        int freeDays = 0, latestEnd = 0;
-        Arrays.sort(meetings, Comparator.comparingInt(a -> a[0]));
-        for (int[] meeting : meetings) {
-            int start = meeting[0], end = meeting[1];
-            if (start > latestEnd + 1) {
-                freeDays += start - latestEnd - 1;
+        Arrays.sort(meetings, (a, b) -> a[0] - b[0]);
+        int count = 0;
+        count += Math.abs(meetings[0][0] - 1);
+        int n = meetings.length;
+        for (int i = 1; i < n; i++) {
+            if (meetings[i][0] <= meetings[i - 1][1]) {
+                if (meetings[i][1] < meetings[i - 1][1]) {
+                    meetings[i][1] = meetings[i - 1][1];
+                }
+            } else {
+                int dy = meetings[i][0] - meetings[i - 1][1];
+                count += dy - 1;
             }
-            latestEnd = Math.max(latestEnd, end);
         }
-        freeDays += days - latestEnd;
-        return freeDays;
+        count += Math.abs(meetings[n - 1][1] - days);
+        return count;
     }
 }
