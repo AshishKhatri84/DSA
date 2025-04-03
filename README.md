@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshishKhatri84/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/AshishKhatri84/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/AshishKhatri84/DSA/tree/master/0322-coin-change) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
+| [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshishKhatri84/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AshishKhatri84/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Bit Manipulation
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AshishKhatri84/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/AshishKhatri84/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AshishKhatri84/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
