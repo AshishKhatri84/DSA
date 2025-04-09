@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshishKhatri84/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/AshishKhatri84/DSA/tree/master/0200-number-of-islands) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshishKhatri84/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1300-critical-connections-in-a-network](https://github.com/AshishKhatri84/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AshishKhatri84/DSA/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/AshishKhatri84/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/AshishKhatri84/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AshishKhatri84/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/AshishKhatri84/DSA/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
