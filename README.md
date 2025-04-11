@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AshishKhatri84/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AshishKhatri84/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AshishKhatri84/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AshishKhatri84/DSA/tree/master/0322-coin-change) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshishKhatri84/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AshishKhatri84/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AshishKhatri84/DSA/tree/master/2478-longest-nice-subarray) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/AshishKhatri84/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AshishKhatri84/DSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/AshishKhatri84/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
