@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/AshishKhatri84/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/AshishKhatri84/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AshishKhatri84/DSA/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/AshishKhatri84/DSA/tree/master/0208-implement-trie-prefix-tree) |
