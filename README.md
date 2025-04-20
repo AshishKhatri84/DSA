@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0070-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AshishKhatri84/DSA/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AshishKhatri84/DSA/tree/master/2610-closest-prime-numbers-in-range) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AshishKhatri84/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AshishKhatri84/DSA/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/AshishKhatri84/DSA/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AshishKhatri84/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2487-optimal-partition-of-string](https://github.com/AshishKhatri84/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2681-put-marbles-in-bags](https://github.com/AshishKhatri84/DSA/tree/master/2681-put-marbles-in-bags) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AshishKhatri84/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshishKhatri84/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/AshishKhatri84/DSA/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshishKhatri84/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AshishKhatri84/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AshishKhatri84/DSA/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/AshishKhatri84/DSA/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AshishKhatri84/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
