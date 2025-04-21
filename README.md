@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AshishKhatri84/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AshishKhatri84/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1656-count-good-triplets](https://github.com/AshishKhatri84/DSA/tree/master/1656-count-good-triplets) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/AshishKhatri84/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AshishKhatri84/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1814-jump-game-vi](https://github.com/AshishKhatri84/DSA/tree/master/1814-jump-game-vi) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AshishKhatri84/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AshishKhatri84/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/AshishKhatri84/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshishKhatri84/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Queue
 |  |
