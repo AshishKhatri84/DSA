@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/AshishKhatri84/DSA/tree/master/1814-jump-game-vi) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AshishKhatri84/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/AshishKhatri84/DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AshishKhatri84/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshishKhatri84/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AshishKhatri84/DSA/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AshishKhatri84/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AshishKhatri84/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/AshishKhatri84/DSA/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AshishKhatri84/DSA/tree/master/3001-apply-operations-to-maximize-score) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AshishKhatri84/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AshishKhatri84/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AshishKhatri84/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AshishKhatri84/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshishKhatri84/DSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Biconnected Component
 |  |
