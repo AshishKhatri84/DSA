@@ -11,7 +11,6 @@ class Solution {
         Map<Character, Set<Character>> graph = new HashMap<>();
         Map<Character, Integer> inDegree = new HashMap<>();
 
-        // Initialize the graph
         for (String word : words) {
             for (char c : word.toCharArray()) {
                 graph.putIfAbsent(c, new HashSet<>());
@@ -19,7 +18,6 @@ class Solution {
             }
         }
 
-        // Build the graph (character precedence rules)
         for (int i = 0; i < words.length - 1; i++) {
             String w1 = words[i];
             String w2 = words[i + 1];
@@ -39,13 +37,11 @@ class Solution {
                 }
             }
 
-            // Invalid case: prefix problem
             if (!foundDifference && w1.length() > w2.length()) {
                 return "";
             }
         }
 
-        // Topological Sort (BFS - Kahn's Algorithm)
         Queue<Character> queue = new LinkedList<>();
         for (char c : inDegree.keySet()) {
             if (inDegree.get(c) == 0) {
@@ -65,7 +61,6 @@ class Solution {
             }
         }
 
-        // If not all characters are in result, it means there's a cycle
         if (result.length() != inDegree.size()) {
             return "";
         }
