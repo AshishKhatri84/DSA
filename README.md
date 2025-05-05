@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AshishKhatri84/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/AshishKhatri84/DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AshishKhatri84/DSA/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
