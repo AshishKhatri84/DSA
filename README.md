@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AshishKhatri84/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AshishKhatri84/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/AshishKhatri84/DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/AshishKhatri84/DSA/tree/master/0868-push-dominoes) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Simulation
 |  |
