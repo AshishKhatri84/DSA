@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AshishKhatri84/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AshishKhatri84/DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AshishKhatri84/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AshishKhatri84/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AshishKhatri84/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AshishKhatri84/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AshishKhatri84/DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AshishKhatri84/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AshishKhatri84/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/AshishKhatri84/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0206-reverse-linked-list) |
