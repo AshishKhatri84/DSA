@@ -1,57 +1,46 @@
 //{ Driver Code Starts
-//Initial Template for Java
-
+// Initial Template for Java
 import java.io.*;
-import java.util.*; 
+import java.util.*;
 
-class GFG{
-    public static void main(String args[]) throws IOException { 
+class GFG {
+    public static void main(String args[]) throws IOException {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(read.readLine());
-        
-        while(t-- > 0){
+
+        while (t-- > 0) {
             int n = Integer.parseInt(read.readLine());
-            
-            
 
             Solution ob = new Solution();
-            
-            System.out.println(ob.lookandsay(n));
-        
-System.out.println("~");
+
+            System.out.println(ob.countAndSay(n));
+
+            System.out.println("~");
+        }
+    }
 }
-    } 
-} 
 // } Driver Code Ends
 
 
-//User function Template for Java
-
 class Solution {
-    public String lookandsay(int n) {
-        String s = "1";
-        for(int i=2; i<= n; i++){
-            s = countandAdd(s);
-        }
-        return s;
-    }
-    String countandAdd(String s){
-        StringBuilder currString = new StringBuilder();
-        char ch = s.charAt(0);
-        int count = 1;
-        for(int i=1; i<s.length(); i++){
-            if(s.charAt(i) == ch){
-                count++;
+    public String countAndSay(int n) {
+        if (n == 1) return "1";
+
+        String result = "1";
+        for (int i = 2; i <= n; i++) {
+            StringBuilder current = new StringBuilder();
+            int count = 1;
+            for (int j = 1; j < result.length(); j++) {
+                if (result.charAt(j) == result.charAt(j - 1)) {
+                    count++;
+                } else {
+                    current.append(count).append(result.charAt(j - 1));
+                    count = 1;
+                }
             }
-            else{
-                currString.append(count);
-                currString.append(ch);
-                ch = s.charAt(i);
-                count = 1;
-            }
+            current.append(count).append(result.charAt(result.length() - 1));
+            result = current.toString();
         }
-        currString.append(count);
-        currString.append(ch);
-        return currString.toString();
+        return result;
     }
 }
