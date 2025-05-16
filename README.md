@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AshishKhatri84/DSA/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/AshishKhatri84/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AshishKhatri84/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AshishKhatri84/DSA/tree/master/0202-happy-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AshishKhatri84/DSA/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/AshishKhatri84/DSA/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/AshishKhatri84/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshishKhatri84/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
