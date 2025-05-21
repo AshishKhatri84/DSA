@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AshishKhatri84/DSA/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AshishKhatri84/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AshishKhatri84/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AshishKhatri84/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AshishKhatri84/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AshishKhatri84/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/AshishKhatri84/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AshishKhatri84/DSA/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/AshishKhatri84/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AshishKhatri84/DSA/tree/master/0217-contains-duplicate) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AshishKhatri84/DSA/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshishKhatri84/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sliding Window
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AshishKhatri84/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/AshishKhatri84/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AshishKhatri84/DSA/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/AshishKhatri84/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AshishKhatri84/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AshishKhatri84/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AshishKhatri84/DSA/tree/master/0217-contains-duplicate) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AshishKhatri84/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AshishKhatri84/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AshishKhatri84/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
