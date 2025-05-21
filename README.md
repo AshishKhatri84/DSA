@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/AshishKhatri84/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AshishKhatri84/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AshishKhatri84/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AshishKhatri84/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AshishKhatri84/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/AshishKhatri84/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/AshishKhatri84/DSA/tree/master/1197-parsing-a-boolean-expression) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AshishKhatri84/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AshishKhatri84/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
