@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AshishKhatri84/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/AshishKhatri84/DSA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/AshishKhatri84/DSA/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/AshishKhatri84/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AshishKhatri84/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AshishKhatri84/DSA/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/AshishKhatri84/DSA/tree/master/0400-nth-digit) |
