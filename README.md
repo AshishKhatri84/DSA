@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AshishKhatri84/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AshishKhatri84/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/AshishKhatri84/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/AshishKhatri84/DSA/tree/master/0224-basic-calculator) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AshishKhatri84/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AshishKhatri84/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AshishKhatri84/DSA/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/AshishKhatri84/DSA/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AshishKhatri84/DSA/tree/master/0367-valid-perfect-square) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshishKhatri84/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AshishKhatri84/DSA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/AshishKhatri84/DSA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/AshishKhatri84/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/AshishKhatri84/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AshishKhatri84/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/AshishKhatri84/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/AshishKhatri84/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/AshishKhatri84/DSA/tree/master/2050-count-good-numbers) |
