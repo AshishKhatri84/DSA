@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AshishKhatri84/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/AshishKhatri84/DSA/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/AshishKhatri84/DSA/tree/master/0768-partition-labels) |
+| [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/AshishKhatri84/DSA/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
+| [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/AshishKhatri84/DSA/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/AshishKhatri84/DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshishKhatri84/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AshishKhatri84/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/AshishKhatri84/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
+| [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/AshishKhatri84/DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AshishKhatri84/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/AshishKhatri84/DSA/tree/master/2048-build-array-from-permutation) |
 ## Quickselect
 |  |
