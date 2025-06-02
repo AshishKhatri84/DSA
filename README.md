@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AshishKhatri84/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AshishKhatri84/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AshishKhatri84/DSA/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/AshishKhatri84/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/AshishKhatri84/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AshishKhatri84/DSA/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/AshishKhatri84/DSA/tree/master/0168-excel-sheet-column-title) |
