@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AshishKhatri84/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AshishKhatri84/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AshishKhatri84/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/AshishKhatri84/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshishKhatri84/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AshishKhatri84/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AshishKhatri84/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AshishKhatri84/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AshishKhatri84/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AshishKhatri84/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/AshishKhatri84/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshishKhatri84/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Two Pointers
 |  |
@@ -691,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/AshishKhatri84/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
