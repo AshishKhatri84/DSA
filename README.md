@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AshishKhatri84/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/AshishKhatri84/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AshishKhatri84/DSA/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/AshishKhatri84/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AshishKhatri84/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AshishKhatri84/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/AshishKhatri84/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AshishKhatri84/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AshishKhatri84/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AshishKhatri84/DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/AshishKhatri84/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AshishKhatri84/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/AshishKhatri84/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AshishKhatri84/DSA/tree/master/0202-happy-number) |
