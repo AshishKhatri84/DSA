@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AshishKhatri84/DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/AshishKhatri84/DSA/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AshishKhatri84/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AshishKhatri84/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/AshishKhatri84/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AshishKhatri84/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/AshishKhatri84/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AshishKhatri84/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/AshishKhatri84/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AshishKhatri84/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AshishKhatri84/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
