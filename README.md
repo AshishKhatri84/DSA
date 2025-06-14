@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/AshishKhatri84/DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/AshishKhatri84/DSA/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/AshishKhatri84/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshishKhatri84/DSA/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AshishKhatri84/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshishKhatri84/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshishKhatri84/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshishKhatri84/DSA/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
