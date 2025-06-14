@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/AshishKhatri84/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AshishKhatri84/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [1916-find-center-of-star-graph](https://github.com/AshishKhatri84/DSA/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AshishKhatri84/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AshishKhatri84/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
