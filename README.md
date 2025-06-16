@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AshishKhatri84/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AshishKhatri84/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/AshishKhatri84/DSA/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/AshishKhatri84/DSA/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AshishKhatri84/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AshishKhatri84/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AshishKhatri84/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AshishKhatri84/DSA/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/AshishKhatri84/DSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AshishKhatri84/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AshishKhatri84/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AshishKhatri84/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AshishKhatri84/DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/AshishKhatri84/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AshishKhatri84/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
