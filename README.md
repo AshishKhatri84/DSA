@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AshishKhatri84/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshishKhatri84/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/AshishKhatri84/DSA/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshishKhatri84/DSA/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
