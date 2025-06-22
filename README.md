@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AshishKhatri84/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshishKhatri84/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AshishKhatri84/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AshishKhatri84/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/AshishKhatri84/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AshishKhatri84/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/AshishKhatri84/DSA/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AshishKhatri84/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Quickselect
 |  |
 | ------- |
