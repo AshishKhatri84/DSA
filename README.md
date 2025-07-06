@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/AshishKhatri84/DSA/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AshishKhatri84/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/AshishKhatri84/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AshishKhatri84/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AshishKhatri84/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AshishKhatri84/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AshishKhatri84/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshishKhatri84/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/AshishKhatri84/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/AshishKhatri84/DSA/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AshishKhatri84/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AshishKhatri84/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AshishKhatri84/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/AshishKhatri84/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AshishKhatri84/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/AshishKhatri84/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Trie
 |  |
 | ------- |
