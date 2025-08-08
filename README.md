@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AshishKhatri84/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/AshishKhatri84/DSA/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/AshishKhatri84/DSA/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/AshishKhatri84/DSA/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AshishKhatri84/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshishKhatri84/DSA/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/AshishKhatri84/DSA/tree/master/0826-soup-servings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AshishKhatri84/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1372-check-if-it-is-a-good-array](https://github.com/AshishKhatri84/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshishKhatri84/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -867,4 +869,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AshishKhatri84/DSA/tree/master/0812-rotate-string) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/AshishKhatri84/DSA/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
