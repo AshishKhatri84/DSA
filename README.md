@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AshishKhatri84/DSA/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AshishKhatri84/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AshishKhatri84/DSA/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/AshishKhatri84/DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/AshishKhatri84/DSA/tree/master/0507-perfect-number) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AshishKhatri84/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshishKhatri84/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AshishKhatri84/DSA/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/AshishKhatri84/DSA/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshishKhatri84/DSA/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/AshishKhatri84/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AshishKhatri84/DSA/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/AshishKhatri84/DSA/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/AshishKhatri84/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/AshishKhatri84/DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AshishKhatri84/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
