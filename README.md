@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AshishKhatri84/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/AshishKhatri84/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AshishKhatri84/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/AshishKhatri84/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/AshishKhatri84/DSA/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AshishKhatri84/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/AshishKhatri84/DSA/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/AshishKhatri84/DSA/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/AshishKhatri84/DSA/tree/master/0945-snakes-and-ladders) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/AshishKhatri84/DSA/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/AshishKhatri84/DSA/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AshishKhatri84/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
