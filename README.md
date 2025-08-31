@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AshishKhatri84/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/AshishKhatri84/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AshishKhatri84/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AshishKhatri84/DSA/tree/master/0133-clone-graph) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AshishKhatri84/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshishKhatri84/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshishKhatri84/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/AshishKhatri84/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AshishKhatri84/DSA/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/AshishKhatri84/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AshishKhatri84/DSA/tree/master/0048-rotate-image) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AshishKhatri84/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AshishKhatri84/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/AshishKhatri84/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AshishKhatri84/DSA/tree/master/0073-set-matrix-zeroes) |
