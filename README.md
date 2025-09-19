@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshishKhatri84/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AshishKhatri84/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AshishKhatri84/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/AshishKhatri84/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AshishKhatri84/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/AshishKhatri84/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AshishKhatri84/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AshishKhatri84/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AshishKhatri84/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/AshishKhatri84/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/AshishKhatri84/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2487-optimal-partition-of-string](https://github.com/AshishKhatri84/DSA/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AshishKhatri84/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AshishKhatri84/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AshishKhatri84/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/AshishKhatri84/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2478-longest-nice-subarray](https://github.com/AshishKhatri84/DSA/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/AshishKhatri84/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AshishKhatri84/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AshishKhatri84/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1814-jump-game-vi](https://github.com/AshishKhatri84/DSA/tree/master/1814-jump-game-vi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AshishKhatri84/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/AshishKhatri84/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/AshishKhatri84/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshishKhatri84/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AshishKhatri84/DSA/tree/master/2681-put-marbles-in-bags) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/AshishKhatri84/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Design
 |  |
 | ------- |
@@ -861,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AshishKhatri84/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AshishKhatri84/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AshishKhatri84/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/AshishKhatri84/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Trie
 |  |
 | ------- |
