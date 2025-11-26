@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/AshishKhatri84/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AshishKhatri84/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AshishKhatri84/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AshishKhatri84/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AshishKhatri84/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AshishKhatri84/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AshishKhatri84/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AshishKhatri84/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AshishKhatri84/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2429-design-a-food-rating-system](https://github.com/AshishKhatri84/DSA/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AshishKhatri84/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2478-longest-nice-subarray](https://github.com/AshishKhatri84/DSA/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/AshishKhatri84/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AshishKhatri84/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AshishKhatri84/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AshishKhatri84/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AshishKhatri84/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshishKhatri84/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/AshishKhatri84/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AshishKhatri84/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
