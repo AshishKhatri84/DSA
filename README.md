@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/AshishKhatri84/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AshishKhatri84/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AshishKhatri84/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AshishKhatri84/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AshishKhatri84/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AshishKhatri84/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/AshishKhatri84/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AshishKhatri84/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AshishKhatri84/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AshishKhatri84/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AshishKhatri84/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AshishKhatri84/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AshishKhatri84/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/AshishKhatri84/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AshishKhatri84/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AshishKhatri84/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AshishKhatri84/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AshishKhatri84/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AshishKhatri84/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
