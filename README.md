@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshishKhatri84/DSA/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/AshishKhatri84/DSA/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AshishKhatri84/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1372-check-if-it-is-a-good-array](https://github.com/AshishKhatri84/DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshishKhatri84/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/AshishKhatri84/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/AshishKhatri84/DSA/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshishKhatri84/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AshishKhatri84/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/AshishKhatri84/DSA/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AshishKhatri84/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/AshishKhatri84/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/AshishKhatri84/DSA/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/AshishKhatri84/DSA/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/AshishKhatri84/DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
