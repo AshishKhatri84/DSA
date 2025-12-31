@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/AshishKhatri84/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AshishKhatri84/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AshishKhatri84/DSA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AshishKhatri84/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AshishKhatri84/DSA/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/AshishKhatri84/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/AshishKhatri84/DSA/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AshishKhatri84/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AshishKhatri84/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AshishKhatri84/DSA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AshishKhatri84/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AshishKhatri84/DSA/tree/master/2439-longest-cycle-in-a-graph) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/AshishKhatri84/DSA/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AshishKhatri84/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AshishKhatri84/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AshishKhatri84/DSA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AshishKhatri84/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AshishKhatri84/DSA/tree/master/2439-longest-cycle-in-a-graph) |
 ## Shortest Path
