@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshishKhatri84/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/AshishKhatri84/DSA/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AshishKhatri84/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AshishKhatri84/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AshishKhatri84/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/AshishKhatri84/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2887-sort-vowels-in-a-string](https://github.com/AshishKhatri84/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshishKhatri84/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AshishKhatri84/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AshishKhatri84/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AshishKhatri84/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
