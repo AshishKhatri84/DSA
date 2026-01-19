@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/AshishKhatri84/DSA/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AshishKhatri84/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AshishKhatri84/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AshishKhatri84/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/AshishKhatri84/DSA/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AshishKhatri84/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AshishKhatri84/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/AshishKhatri84/DSA/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/AshishKhatri84/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/AshishKhatri84/DSA/tree/master/0907-koko-eating-bananas) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AshishKhatri84/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AshishKhatri84/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AshishKhatri84/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1612-avoid-flood-in-the-city](https://github.com/AshishKhatri84/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AshishKhatri84/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AshishKhatri84/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/AshishKhatri84/DSA/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AshishKhatri84/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/AshishKhatri84/DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AshishKhatri84/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AshishKhatri84/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AshishKhatri84/DSA/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/AshishKhatri84/DSA/tree/master/1895-largest-magic-square) |
