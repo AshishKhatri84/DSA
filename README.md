@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AshishKhatri84/DSA/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AshishKhatri84/DSA/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AshishKhatri84/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1200-minimum-absolute-difference](https://github.com/AshishKhatri84/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AshishKhatri84/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AshishKhatri84/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/AshishKhatri84/DSA/tree/master/1293-three-consecutive-odds) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AshishKhatri84/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1200-minimum-absolute-difference](https://github.com/AshishKhatri84/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AshishKhatri84/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AshishKhatri84/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AshishKhatri84/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
