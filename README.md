@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AshishKhatri84/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AshishKhatri84/DSA/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/AshishKhatri84/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AshishKhatri84/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AshishKhatri84/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AshishKhatri84/DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AshishKhatri84/DSA/tree/master/0125-valid-palindrome) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AshishKhatri84/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AshishKhatri84/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AshishKhatri84/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AshishKhatri84/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AshishKhatri84/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AshishKhatri84/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AshishKhatri84/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AshishKhatri84/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AshishKhatri84/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AshishKhatri84/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshishKhatri84/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -1154,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AshishKhatri84/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AshishKhatri84/DSA/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/AshishKhatri84/DSA/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
