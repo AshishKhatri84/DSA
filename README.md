@@ -841,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AshishKhatri84/DSA/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/AshishKhatri84/DSA/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/AshishKhatri84/DSA/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AshishKhatri84/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AshishKhatri84/DSA/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AshishKhatri84/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
