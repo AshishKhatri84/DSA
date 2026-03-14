@@ -1,26 +1,16 @@
 class Solution:
-    def minNumberOfSeconds(
-        self, mountainHeight: int, workerTimes: List[int]
-    ) -> int:
-        maxWorkerTimes = max(workerTimes)
-        l, r, ans = (
-            1,
-            maxWorkerTimes * mountainHeight * (mountainHeight + 1) // 2,
-            0,
-        )
-        eps = 1e-7
-
-        while l <= r:
-            mid = (l + r) // 2
-            cnt = 0
-            for t in workerTimes:
-                work = mid // t
-                k = int((-1 + ((1 + work * 8) ** 0.5)) / 2 + eps)
-                cnt += k
-            if cnt >= mountainHeight:
-                ans = mid
-                r = mid - 1
+    def minNumberOfSeconds(self, H: int, arr: List[int]) -> int:
+        S = sum(arr)
+        N = len(arr)
+        V = ceil(H / N)
+        start, end = 1, V * (V + 1) * max(arr) // 2
+        while start < end:
+            mid = (start + end) // 2
+            W = 0
+            for T in arr:
+                W += floor(sqrt(2 * mid / T + 0.25) - 0.5)
+            if W >= H:
+                end = mid
             else:
-                l = mid + 1
-
-        return ans
+                start = mid + 1
+        return start
