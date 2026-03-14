@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshishKhatri84/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AshishKhatri84/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AshishKhatri84/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshishKhatri84/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/AshishKhatri84/DSA/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AshishKhatri84/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/AshishKhatri84/DSA/tree/master/3433-count-mentions-per-user) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/AshishKhatri84/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AshishKhatri84/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AshishKhatri84/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshishKhatri84/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AshishKhatri84/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AshishKhatri84/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AshishKhatri84/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/AshishKhatri84/DSA/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AshishKhatri84/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AshishKhatri84/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshishKhatri84/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AshishKhatri84/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AshishKhatri84/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AshishKhatri84/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/AshishKhatri84/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AshishKhatri84/DSA/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AshishKhatri84/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshishKhatri84/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AshishKhatri84/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/AshishKhatri84/DSA/tree/master/3453-separate-squares-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AshishKhatri84/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1021,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/AshishKhatri84/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshishKhatri84/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AshishKhatri84/DSA/tree/master/2681-put-marbles-in-bags) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AshishKhatri84/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AshishKhatri84/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AshishKhatri84/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AshishKhatri84/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
