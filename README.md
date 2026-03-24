@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AshishKhatri84/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshishKhatri84/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2906-construct-product-matrix](https://github.com/AshishKhatri84/DSA/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/AshishKhatri84/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AshishKhatri84/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AshishKhatri84/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AshishKhatri84/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/AshishKhatri84/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/AshishKhatri84/DSA/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/AshishKhatri84/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AshishKhatri84/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AshishKhatri84/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AshishKhatri84/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshishKhatri84/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/AshishKhatri84/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/AshishKhatri84/DSA/tree/master/2906-construct-product-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AshishKhatri84/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AshishKhatri84/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AshishKhatri84/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
