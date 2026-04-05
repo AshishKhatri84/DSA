@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/AshishKhatri84/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/AshishKhatri84/DSA/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AshishKhatri84/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2751-robot-collisions](https://github.com/AshishKhatri84/DSA/tree/master/2751-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AshishKhatri84/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshishKhatri84/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/AshishKhatri84/DSA/tree/master/2906-construct-product-matrix) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AshishKhatri84/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshishKhatri84/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AshishKhatri84/DSA/tree/master/2681-put-marbles-in-bags) |
+| [2751-robot-collisions](https://github.com/AshishKhatri84/DSA/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/AshishKhatri84/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshishKhatri84/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/AshishKhatri84/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AshishKhatri84/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AshishKhatri84/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2751-robot-collisions](https://github.com/AshishKhatri84/DSA/tree/master/2751-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AshishKhatri84/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AshishKhatri84/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
@@ -1210,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AshishKhatri84/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/AshishKhatri84/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/AshishKhatri84/DSA/tree/master/2479-meeting-rooms-iii) |
+| [2751-robot-collisions](https://github.com/AshishKhatri84/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AshishKhatri84/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/AshishKhatri84/DSA/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/AshishKhatri84/DSA/tree/master/3433-count-mentions-per-user) |
