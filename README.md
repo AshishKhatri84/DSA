@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AshishKhatri84/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/AshishKhatri84/DSA/tree/master/0874-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/AshishKhatri84/DSA/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshishKhatri84/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AshishKhatri84/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AshishKhatri84/DSA/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/AshishKhatri84/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/AshishKhatri84/DSA/tree/master/0874-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/AshishKhatri84/DSA/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AshishKhatri84/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/AshishKhatri84/DSA/tree/master/0945-snakes-and-ladders) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AshishKhatri84/DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/AshishKhatri84/DSA/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/AshishKhatri84/DSA/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/AshishKhatri84/DSA/tree/master/0874-walking-robot-simulation) |
 | [2048-build-array-from-permutation](https://github.com/AshishKhatri84/DSA/tree/master/2048-build-array-from-permutation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AshishKhatri84/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/AshishKhatri84/DSA/tree/master/2169-simple-bank-system) |
