@@ -1,37 +1,37 @@
 class Solution:
-    def __init__(self):
-        self.HASH_MULTIPLIER = (
-            60013 
-        )
-
     def robotSim(self, commands: List[int], obstacles: List[List[int]]) -> int:
-        obstacle_set = {self._hash_coordinates(x, y) for x, y in obstacles}
-
-        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-
-        x, y = 0, 0
-        max_distance_squared = 0
-        current_direction = 0  
-
+        best_distance = 0
+        stage = 0
+        my_set = set()
+        for obstacle in obstacles:
+            my_set.add(tuple(obstacle))
+        current_x = 0
+        current_y = 0
         for command in commands:
-            if command == -1: 
-                current_direction = (current_direction + 1) % 4
-                continue
-
-            if command == -2:  
-                current_direction = (current_direction + 3) % 4
-                continue
-
-            dx, dy = directions[current_direction]
-            for _ in range(command):
-                next_x, next_y = x + dx, y + dy
-                if self._hash_coordinates(next_x, next_y) in obstacle_set:
-                    break
-                x, y = next_x, next_y
-
-            max_distance_squared = max(max_distance_squared, x * x + y * y)
-
-        return max_distance_squared
-
-    def _hash_coordinates(self, x: int, y: int) -> int:
-        return x + self.HASH_MULTIPLIER * y
+            if command == -1:
+                stage = (stage + 1) % 4
+            elif command == -2:
+                stage = (stage - 1) % 4
+            else:
+                if stage == 0:
+                    for x in range(command):
+                        if (current_x,current_y + 1) in my_set:
+                            break
+                        current_y += 1
+                elif stage == 1:
+                    for x in range(command):
+                        if (current_x + 1,current_y) in my_set:
+                            break
+                        current_x += 1
+                elif stage == 2:
+                    for x in range(command):
+                        if (current_x,current_y - 1) in my_set:
+                            break
+                        current_y -= 1
+                else:
+                    for x in range(command):
+                        if (current_x - 1,current_y) in my_set:
+                            break
+                        current_x -= 1
+                best_distance = max(best_distance,current_x*current_x + current_y*current_y)
+        return best_distance
