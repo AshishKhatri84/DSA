@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/AshishKhatri84/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/AshishKhatri84/DSA/tree/master/1252-break-a-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AshishKhatri84/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AshishKhatri84/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AshishKhatri84/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AshishKhatri84/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AshishKhatri84/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/AshishKhatri84/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AshishKhatri84/DSA/tree/master/1250-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AshishKhatri84/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AshishKhatri84/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AshishKhatri84/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AshishKhatri84/DSA/tree/master/1628-count-submatrices-with-all-ones) |
